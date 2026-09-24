@@ -1,3 +1,6 @@
 # Insel-Survival
 
-Spielbare Version des Brettspiel-Prototyps. Bitte den Link nicht öffentlich teilen.
+Spielbare Versionen des Brettspiel-Prototyps. Bitte den Link nicht öffentlich teilen.
+
+- Version 1: Hauptordner (index.html)
+- Version 2: Ordner v2/
