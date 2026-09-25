@@ -5,6 +5,7 @@ Spielbare Versionen des Brettspiel-Prototyps. Bitte den Link nicht öffentlich t
 ## Spielen
 
 - **[Version 1 spielen](https://mijabafox.github.io/insel-survival/)** (bisheriger Stand)
-- **[Version 2 spielen](https://mijabafox.github.io/insel-survival/v2/)** (neu: angepasste Spiellänge, Anleitung, Zoom, Rückgängig, KI-Pfeile)
+- **[Version 2 spielen](https://mijabafox.github.io/insel-survival/v2/)** (angepasste Spiellänge, Anleitung, Zoom, Rückgängig, KI-Pfeile)
+- **[Version 3 spielen](https://mijabafox.github.io/insel-survival/v3/)** (neu: Spieltisch mit Regel-Modus und freiem Tisch, Regeln nach Team-Dokument 24.09.2026)
 
-Dateien: Version 1 = `index.html`, Version 2 = `v2/index.html`
+Dateien: Version 1 = `index.html`, Version 2 = `v2/index.html`, Version 3 = `v3/index.html`
